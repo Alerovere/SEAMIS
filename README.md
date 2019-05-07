@@ -7,3 +7,6 @@ If you use this work, please cite:
 Thomas Mann, Maren Bender, Thomas Lorscheid, Paolo Stocchi, Matteo Vacchi, Adam Switzer, Alessio Rovere.
 Relative sea-level data from the SEAMIS database compared to ICE-5G model predictions of glacial isostatic adjustment. 
 Data in Brief, ISSN: 2352-3409 (2018)
+
+Track changes
+07 May 2019 Improved general usability of the SEALEVELPLOTS script, including graph legend and title.

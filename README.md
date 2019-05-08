@@ -3,10 +3,10 @@ Holocene database for SE Asia, Maldives, India and Sri Lanka, including GIA mode
 
 The scripts are written in MATLAB 2016b.
 
-If you use this work, please cite:
+If you use this work, please cite these two papers:
+
 Thomas Mann, Maren Bender, Thomas Lorscheid, Paolo Stocchi, Matteo Vacchi, Adam Switzer, Alessio Rovere.
 Relative sea-level data from the SEAMIS database compared to ICE-5G model predictions of glacial isostatic adjustment. 
-Data in Brief, ISSN: 2352-3409 (2018)
+Data in Brief (under rev.)
 
-Track changes
-07 May 2019 Improved general usability of the SEALEVELPLOTS script, including graph legend and title.
+Thomas Mann, Maren Bender, Thomas Lorscheid, Paolo Stocchi, Matteo Vacchi, Adam Switzer, Alessio Rovere. Holocene sea levels in Southeast Asia, Maldives, India and Sri Lanka: The SEAMIS database. Quaternary Science Reviews (under rev.)

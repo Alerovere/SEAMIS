@@ -21,4 +21,5 @@ If you use this work, please consider citing these two papers:
 ## Acknowledgments
 This work was supported through grant SEASCHANGE (RO-5245/1-1) from the Deutsche Forschungsgemeinschaft (DFG) as part of the Special Priority Program (SPP)-1889 “Regional Sea Level Change and Society”
 
+[![DOI](https://zenodo.org/badge/151711626.svg)](https://zenodo.org/badge/latestdoi/151711626)
 

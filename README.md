@@ -1,7 +1,5 @@
 # SEAMIS data analysis tools
-This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G). 
-
-The repository also contains scripts to plot data and models:
+This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models:
 
 The folder \Sea level plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL/Time graphs.
 
@@ -19,4 +17,8 @@ If you use this work, please consider citing these two papers:
 > Mann T, Bender M, Lorscheid T, et al (2019) Holocene sea levels in Southeast Asia, Maldives, India and Sri Lanka: The SEAMIS database. Quat Sci Rev 219:112–125. doi: 10.1016/j.quascirev.2019.07.007</br>
 
 > Mann T, Bender M, Lorscheid T, et al (2019) Relative sea-level data from the SEAMIS database compared to ICE-5G model predictions of glacial isostatic adjustment. Data Br 27:104600. doi: 10.1016/j.dib.2019.104600
+
+## Acknowledgments
+This work was supported through grant SEASCHANGE (RO-5245/1-1) from the Deutsche Forschungsgemeinschaft (DFG) as part of the Special Priority Program (SPP)-1889 “Regional Sea Level Change and Society”
+
 

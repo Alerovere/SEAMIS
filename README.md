@@ -3,12 +3,15 @@ This repository contains the Holocene database for SE Asia, Maldives, India and 
 
 The repository also contains scripts to plot data and models:
 
-The folder \Sea level plots\Models contains the file "PLOT_Maps.m" that can be used to plot GIA maps for the study area. An example of the output is below.
+The folder \Sea level plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL/Time graphs. </br>
+</br>
 ![Results_1](https://github.com/Alerovere/SEAMIS/blob/master/Sea%20level%20plots/Images/Example_SL_plot.jpg)
+</br>
 
-The folder \Sea level plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL/Time graphs 
+The folder \Sea level plots\Models contains the file "PLOT_Maps.m" that can be used to plot GIA maps for the study area. An example of the output is below.</br>
+</br>
 ![Results_1](https://github.com/Alerovere/SEAMIS/blob/master/Sea%20level%20plots/Images/Example_map.jpg)
-
+</br>
 
 The scripts are written in MATLAB 2016b.
 The PLOT_Maps scripts needs the Matlab Mapping Toolbox. 

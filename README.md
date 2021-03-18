@@ -20,7 +20,7 @@ The database was compiled using the standardized format of the HOLSEA project, d
 ## Scripts
 The folder ..\Sea_level_plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL *vs* Time graphs. The graphs include symbols for sea level index points, marine and terrestrial limiting points.
 
-The folder \Sea level plots\Models contains the file "PLOT_Maps.m" that can be used to plot GIA maps for the study area. An example of the output is shown below.</br>
+The folder \Sea level plots\Models contains the file "PLOT_Maps.m" that can be used to plot GIA maps for the study area. More models and plotting functions are available here: http://doi.org/10.5281/zenodo.4079342
 
 The scripts are written in MATLAB 2016b.
 The PLOT_Maps scripts needs the Matlab Mapping Toolbox. 

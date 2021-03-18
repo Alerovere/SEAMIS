@@ -2,7 +2,6 @@
 [![DOI](https://zenodo.org/badge/151711626.svg)](https://zenodo.org/badge/latestdoi/151711626)
 
 This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models.
-Version 1.02 corresponds to the published version, and is also available at this DOI: http://dx.doi.org/10.17632/mr247yy42x.1
 
 **If you find problems with the data or if you want to see a particular dataset included, please open an issue within GitHub**
 
@@ -14,6 +13,9 @@ If you use this work, please consider citing these two papers:
 
 ## Database
 The folder ..\SEAMIS_database contains the different database versions. 
+Version 1.02 corresponds to the published version, and is also available at this DOI: http://dx.doi.org/10.17632/mr247yy42x.1
+
+The database was compiled using the standardized format of the HOLSEA project, described in Khan et al., 2017 (Quaternary Science Reviews) and available here: www.holsea.org.
 
 ## Scripts
 The folder ..\Sea_level_plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL *vs* Time graphs. The graphs include symbols for sea level index points, marine and terrestrial limiting points.

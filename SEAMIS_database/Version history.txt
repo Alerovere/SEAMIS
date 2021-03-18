@@ -1,3 +1,4 @@
 V1.0  - Pre-review version
 V1.01 - Slight changes and improvements
-V1.02 - Final version for publication in QSR
+V1.02 - Final version for publication in QSR, also available here: http://dx.doi.org/10.17632/mr247yy42x.1
+V1.1 - Status at the end of the SEASCHANGE project (january 15th, 2021). Maren Bender added data from several sources with data published after version 1.0X

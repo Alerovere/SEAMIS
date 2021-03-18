@@ -1,15 +1,13 @@
 # SEAMIS 
 This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models.
 
-The folder ..\
+## Database
+The folder ..\SEAMIS_database contains the different database versions. 
 
-The folder ..\Sea level plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL *vs* Time graphs. The graphs include symbols for sea level index points, marine and terrestrial limiting points. An example of the output is shown below.
-
-![Results_1](https://github.com/Alerovere/SEAMIS/blob/master/Sea%20level%20plots/Images/Example_SL_plot.jpg)
+## Scripts
+The folder ..\Sea_level_plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL *vs* Time graphs. The graphs include symbols for sea level index points, marine and terrestrial limiting points.
 
 The folder \Sea level plots\Models contains the file "PLOT_Maps.m" that can be used to plot GIA maps for the study area. An example of the output is shown below.</br>
-
-![Results_1](https://github.com/Alerovere/SEAMIS/blob/master/Sea%20level%20plots/Images/Example_map.jpg)
 
 The scripts are written in MATLAB 2016b.
 The PLOT_Maps scripts needs the Matlab Mapping Toolbox. 

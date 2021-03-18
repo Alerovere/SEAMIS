@@ -2,7 +2,9 @@
 [![DOI](https://zenodo.org/badge/151711626.svg)](https://zenodo.org/badge/latestdoi/151711626)
 
 This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models.
-Version 1.02 corresponds to the published version, and is also available at this DOI: http://dx.doi.org/10.17632/mr247yy42x.1(https://zenodo.org/badge/latestdoi/151711626)
+Version 1.02 corresponds to the published version, and is also available at this DOI: http://dx.doi.org/10.17632/mr247yy42x.1
+
+**If you find problems with the data or if you want to see a particular dataset included, please open an issue within GitHub**
 
 If you use this work, please consider citing these two papers:
 > Mann T, Bender M, Lorscheid T, et al (2019) Holocene sea levels in Southeast Asia, Maldives, India and Sri Lanka: The SEAMIS database. Quat Sci Rev 219:112–125. doi: 10.1016/j.quascirev.2019.07.007</br>

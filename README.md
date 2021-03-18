@@ -1,4 +1,4 @@
-# SEAMIS 
+# SEAMIS sea-level database
 [![DOI](https://zenodo.org/badge/151711626.svg)](https://zenodo.org/badge/latestdoi/151711626)
 
 This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models.

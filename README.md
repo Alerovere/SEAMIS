@@ -1,5 +1,7 @@
-# SEAMIS data analysis tools
-This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models:
+# SEAMIS 
+This repository contains the Holocene database for SE Asia, Maldives, India and Sri Lanka and GIA models (ICE5G), and scripts to plot data and models.
+
+The folder ..\
 
 The folder ..\Sea level plots contains the file "SEALEVELPLOTS.m" that can be used to plot GIA model outputs and RSL observations in RSL *vs* Time graphs. The graphs include symbols for sea level index points, marine and terrestrial limiting points. An example of the output is shown below.
 
@@ -22,4 +24,3 @@ If you use this work, please consider citing these two papers:
 This work was supported through grant SEASCHANGE (RO-5245/1-1) from the Deutsche Forschungsgemeinschaft (DFG) as part of the Special Priority Program (SPP)-1889 “Regional Sea Level Change and Society”
 
 [![DOI](https://zenodo.org/badge/151711626.svg)](https://zenodo.org/badge/latestdoi/151711626)
-
